@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        inter: ['Inter', 'sans-serif'],
+        sans: ['DM Sans', 'sans-serif'],
       },
       animation: {
         fade: 'fadeOut 1s ease-in-out',
